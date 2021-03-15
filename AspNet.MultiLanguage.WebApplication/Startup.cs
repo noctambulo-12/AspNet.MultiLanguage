@@ -12,7 +12,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Localization;
 
-namespace AspNet.MultiLanguage.WebApplication
+namespace AspNetCore.MultiLanguage.WebApplication
 {
     public class Startup
     {
